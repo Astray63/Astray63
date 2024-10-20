@@ -2,7 +2,7 @@
 # 🧑‍💻 Elijah Lasserre
 
 [![GitHub followers](https://img.shields.io/github/followers/votre-nom-utilisateur?label=Suiveurs&style=social)](https://github.com/votre-nom-utilisateur)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-votre%20nom-blue)](https://www.linkedin.com/in/elijah-lasserre/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elijah%20Lasserre-blue)](https://www.linkedin.com/in/elijah-lasserre/)
 [![Email](https://img.shields.io/badge/Email-votre.email%40example.com-yellow)](mailto:votre.email@example.com)
 
 Bienvenue sur ma page GitHub ! Je suis **Elijah Lasserre**, un passionné de **cybersécurité**, **développement web**, et **intelligence artificielle**. 🌟
