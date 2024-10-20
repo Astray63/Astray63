@@ -1,14 +1,13 @@
-
 # 🧑‍💻 Elijah Lasserre
 
-[![GitHub followers](https://img.shields.io/github/followers/votre-nom-utilisateur?label=Suiveurs&style=social)](https://github.com/votre-nom-utilisateur)
+[![GitHub followers](https://img.shields.io/github/followers/Astray63?label=Suiveurs&style=social)](https://github.com/Astray63)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elijah%20Lasserre-blue)](https://www.linkedin.com/in/elijah-lasserre/)
-[![Email](https://img.shields.io/badge/Email-votre.email%40example.com-yellow)](mailto:votre.email@example.com)
+[![Email](https://img.shields.io/badge/Email-elijahlasserre63%40gmail.com-yellow)](mailto:elijahlasserre63@gmail.com)
 
 Bienvenue sur ma page GitHub ! Je suis **Elijah Lasserre**, un passionné de **cybersécurité**, **développement web**, et **intelligence artificielle**. 🌟
 
 ## 🚀 À propos de moi
-Je suis un développeur spécialisé en **[domaine de spécialisation]** et actuellement étudiant à **[nom de l'école ou du programme]**. J'ai un intérêt particulier pour [vos domaines d'intérêt], et je travaille constamment à améliorer mes compétences et à apprendre de nouvelles technologies.
+Je suis un développeur spécialisé en **cybersécurité** et actuellement étudiant à **l'école 42**. J'ai un intérêt particulier pour la **sécurité des systèmes**, le **reverse engineering**, et le **développement de bots**, et je travaille constamment à améliorer mes compétences et à apprendre de nouvelles technologies.
 
 ## 🛠️ Compétences
 - **Langages de programmation** : Python, C++, JavaScript, etc.
@@ -18,26 +17,25 @@ Je suis un développeur spécialisé en **[domaine de spécialisation]** et actu
 ## 📂 Mes projets
 Voici quelques projets récents sur lesquels j'ai travaillé :
 
-- **[Nom du Projet 1](https://github.com/votre-nom-utilisateur/nom-du-projet-1)** : Description rapide du projet et de ce qu'il accomplit.
-- **[Nom du Projet 2](https://github.com/votre-nom-utilisateur/nom-du-projet-2)** : Description rapide du projet et de ce qu'il accomplit.
-- **[Nom du Projet 3](https://github.com/votre-nom-utilisateur/nom-du-projet-3)** : Description rapide du projet et de ce qu'il accomplit.
+- **[Bot de Poker](https://github.com/Astray63/nom-du-projet-1)** : Création d'un bot de poker utilisant des techniques de deep learning.
+- **[Projet Wakfu](https://github.com/Astray63/nom-du-projet-2)** : Automatisation de la détection et de la collecte de minerais dans le jeu Wakfu.
+- **[Projet cube3D](https://github.com/Astray63/nom-du-projet-3)** : Développement d'un moteur de jeu 3D à l'école 42.
 
 ## 🌱 Ce que j'apprends actuellement
-- 🎓 Perfectionnement en [domaine ou technologie en cours d'apprentissage].
-- 📚 Lecture de [titre du livre ou cours] pour approfondir mes connaissances en [domaine].
+- 🎓 Perfectionnement en techniques avancées de cybersécurité, notamment en reverse engineering sous Linux.
+- 📚 Lecture de *Grey Hat Hacking* pour approfondir mes connaissances en sécurité offensive et en exploitation binaire.
 
 ## 📫 Comment me contacter ?
 N'hésitez pas à me contacter si vous souhaitez discuter de **collaborations**, **projets open-source**, ou simplement **échanger** sur des sujets communs !
 
-- **Email** : [votre.email@example.com](mailto:votre.email@example.com)
-- **LinkedIn** : [Votre Nom](https://www.linkedin.com/in/votre-nom-utilisateur/)
-- **Twitter** : [@votre_utilisateur](https://twitter.com/votre_utilisateur)
+- **Email** : [elijahlasserre63@gmail.com](mailto:elijahlasserre63@gmail.com)
+- **LinkedIn** : [Elijah Lasserre](https://www.linkedin.com/in/elijah-lasserre/)
 
 ## 📊 Statistiques GitHub
-![Les statistiques GitHub de votre nom](https://github-readme-stats.vercel.app/api?username=votre-nom-utilisateur&show_icons=true&hide=contribs,prs&theme=radical)
+![Les statistiques GitHub d'Elijah Lasserre](https://github-readme-stats.vercel.app/api?username=Astray63&show_icons=true&hide=contribs,prs&theme=radical)
 
 ## 🏆 Mes badges GitHub
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=votre-nom-utilisateur&layout=compact&theme=radical)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Astray63&layout=compact&theme=radical)
 
 ---
 
