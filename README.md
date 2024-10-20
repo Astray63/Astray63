@@ -7,11 +7,11 @@
 Bienvenue sur ma page GitHub ! Je suis **Elijah Lasserre**, un passionné de **cybersécurité**, **développement web**, et **intelligence artificielle**. 🌟
 
 ## 🚀 À propos de moi
-Je suis un développeur spécialisé en **cybersécurité** et actuellement étudiant à **l'école 42**. J'ai un intérêt particulier pour la **sécurité des systèmes**, le **reverse engineering**, et le **développement de bots**, et je travaille constamment à améliorer mes compétences et à apprendre de nouvelles technologies.
+Je suis un apprenti développeur spécialisé en **cybersécurité**. J'ai un intérêt particulier pour la **sécurité des systèmes**, le **reverse engineering**, et le **développement de bots**, et je travaille constamment à améliorer mes compétences et à apprendre de nouvelles technologies.
 
 ## 🛠️ Compétences
-- **Langages de programmation** : Python, C++, JavaScript, etc.
-- **Frameworks & Outils** : TensorFlow, PyTorch, YOLO, Django, Flask, etc.
+- **Langages de programmation** : Python, C, JavaScript.
+- **Frameworks & Outils** : TensorFlow, PyTorch, YOLO.
 - **Technologies** : Développement Web, IA, Pentesting, Blockchain
 
 ## 📂 Mes projets
