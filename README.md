@@ -18,7 +18,7 @@ Je suis un apprenti développeur spécialisé en **cybersécurité**. J'ai un in
 Voici quelques projets récents sur lesquels j'ai travaillé :
 
 - **[Bot de Poker](https://github.com/Astray63/nom-du-projet-1)** : Création d'un bot de poker utilisant des techniques de deep learning.
-- **[Projet Wakfu](https://github.com/Astray63/nom-du-projet-2)** : Automatisation de la détection et de la collecte de minerais dans le jeu Wakfu.
+- **[Projet FasterRCNN](https://github.com/Astray63/FasterRCNN)** : Automatisation de la détection et de la collecte de minerais dans le jeu Wakfu.
 - **[Projet cube3D](https://github.com/Astray63/nom-du-projet-3)** : Développement d'un moteur de jeu 3D à l'école 42.
 
 ## 🌱 Ce que j'apprends actuellement
