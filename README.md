@@ -87,22 +87,14 @@ répétitions en temps réel par IA sur 9 exercices.
 - **Email** : [elijahlasserre63@gmail.com](mailto:elijahlasserre63@gmail.com)
 - **LinkedIn** : [Elijah Lasserre](https://www.linkedin.com/in/elijah-lasserre/)
 
-## 📊 Statistiques GitHub
+## 📊 Langages
 
-<div align="center">
-<img alt="Statistiques GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Astray63&theme=radical" width="420" />
-</div>
-
-### Répartition par langage
-
-| Langage | Part |
-|---|---|
-| **TypeScript** | `█████████████████░░░░░░░░░░░░░` 57,3 % |
-| **Swift** | `██████░░░░░░░░░░░░░░░░░░░░░░░░` 19,5 % |
-| **JavaScript** | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 6,3 % |
-| **Python** | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 5,2 % |
-| **HTML / CSS** | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 5,3 % |
-| **Java** | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 4,1 % |
+![TypeScript 57.3%](https://img.shields.io/badge/TypeScript-57.3%25-3178C6?logo=typescript&logoColor=white)
+![Swift 19.5%](https://img.shields.io/badge/Swift-19.5%25-F05138?logo=swift&logoColor=white)
+![JavaScript 6.3%](https://img.shields.io/badge/JavaScript-6.3%25-F7DF1E?logo=javascript&logoColor=black)
+![HTML/CSS 5.3%](https://img.shields.io/badge/HTML%2FCSS-5.3%25-E34F26?logo=html5&logoColor=white)
+![Python 5.2%](https://img.shields.io/badge/Python-5.2%25-3776AB?logo=python&logoColor=white)
+![Java 4.1%](https://img.shields.io/badge/Java-4.1%25-ED8B00?logo=openjdk&logoColor=white)
 
 <sub>Calculé sur l'ensemble de mes dépôts publics et privés, hors fichiers vendored.</sub>
 
