@@ -10,7 +10,43 @@ Développeur passionné de **cybersécurité**, **développement web/mobile** et
 
 Apprenti développeur avec une spécialisation en **cybersécurité**. Je m'intéresse particulièrement à la
 **sécurité des systèmes**, au **reverse engineering** et à l'**exploitation binaire** — tout en construisant
-des applications web et mobiles complètes en parallèle.
+et en publiant des produits web et mobiles sous [**MEF Labs**](https://github.com/MEF-Labs).
+
+## 🎯 Produits en production
+
+### 🦅 [AppRaven](https://appraven.app/) — *Find your next app.*
+
+SaaS d'analyse de l'App Store pour développeurs indépendants : il croise la demande réelle sur les
+mots-clés (scores de popularité Apple), les plaintes extraites des avis d'apps concurrentes et une
+comparaison côte à côte, pour en sortir un plan de build priorisé avec prompts prêts pour Claude Code,
+Cursor et Codex. Couverture sur 10 pays, alertes quotidiennes sur les apps et mots-clés suivis.
+
+### 📱 Applications iOS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[SaveDish — Calories & Macros](https://apps.apple.com/fr/app/savedish-calories-macros/id6784395411)**
+
+⭐ 4,8/5 · Gratuit · Cuisine & Style de vie
+
+Transforme n'importe quelle vidéo de recette TikTok ou Instagram en fiche chiffrée : ingrédients,
+quantités, étapes, puis calories et macros calculées par portion, avec le détail ingrédient par ingrédient.
+
+</td>
+<td width="50%" valign="top">
+
+**[ScrollUps — Fitness Blocker](https://apps.apple.com/fr/app/scrollups-fitness-blocker/id6760236856)**
+
+⭐ 4,8/5 · Gratuit · Forme & Productivité
+
+Bloque les apps addictives tant que la mission sportive du jour n'est pas terminée. La caméra compte
+les répétitions en temps réel par IA sur 9 exercices — pas de raccourci, pas de triche.
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Stack technique
 
@@ -65,7 +101,7 @@ des applications web et mobiles complètes en parallèle.
 | **[Piscine](https://github.com/Astray63/Piscine)** | Exercices de la piscine 42 — algorithmique et programmation bas niveau | C |
 
 > 🔒 Je travaille aussi sur plusieurs projets privés, notamment des applications iOS en **SwiftUI**
-> (Harmonia, SaveDish, ColdCase) et des projets web sous **TypeScript**.
+> (Harmonia, ColdCase) et des projets web sous **TypeScript**.
 
 ## 🌱 Ce que j'apprends actuellement
 
@@ -84,9 +120,12 @@ N'hésite pas si tu veux discuter **collaborations**, **projets open-source**, o
 
 <div align="center">
 
-![Statistiques GitHub d'Elijah Lasserre](https://github-readme-stats.vercel.app/api?username=Astray63&show_icons=true&hide=contribs,prs&theme=radical)
+![Statistiques GitHub d'Elijah Lasserre](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Astray63&theme=radical)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Astray63&layout=compact&theme=radical)
+![Langages les plus utilisés](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Astray63&theme=radical)
+![Langage le plus commité](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Astray63&theme=radical)
+
+![Série de contributions](https://streak-stats.demolab.com/?user=Astray63&theme=radical&hide_border=true)
 
 </div>
 
