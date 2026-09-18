@@ -89,12 +89,22 @@ répétitions en temps réel par IA sur 9 exercices.
 
 ## 📊 Statistiques GitHub
 
-<table align="center">
-<tr>
-<td><img alt="Statistiques GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Astray63&theme=radical" width="100%" /></td>
-<td><img alt="Langages les plus utilisés" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Astray63&theme=radical" width="100%" /></td>
-</tr>
-</table>
+<div align="center">
+<img alt="Statistiques GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Astray63&theme=radical" width="420" />
+</div>
+
+### Répartition par langage
+
+| Langage | Part |
+|---|---|
+| **TypeScript** | `█████████████████░░░░░░░░░░░░░` 57,3 % |
+| **Swift** | `██████░░░░░░░░░░░░░░░░░░░░░░░░` 19,5 % |
+| **JavaScript** | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 6,3 % |
+| **Python** | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 5,2 % |
+| **HTML / CSS** | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 5,3 % |
+| **Java** | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░` 4,1 % |
+
+<sub>Calculé sur l'ensemble de mes dépôts publics et privés, hors fichiers vendored.</sub>
 
 ---
 
