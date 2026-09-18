@@ -49,11 +49,16 @@ répétitions en temps réel par IA sur 9 exercices.
 
 ## 🛠️ Stack technique
 
-![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+**Langages** — part réelle dans mon code
+
+![TypeScript 57.3%](https://img.shields.io/badge/TypeScript-57.3%25-3178C6?logo=typescript&logoColor=white)
+![Swift 19.5%](https://img.shields.io/badge/Swift-19.5%25-F05138?logo=swift&logoColor=white)
+![JavaScript 6.3%](https://img.shields.io/badge/JavaScript-6.3%25-F7DF1E?logo=javascript&logoColor=black)
+![HTML/CSS 5.3%](https://img.shields.io/badge/HTML%2FCSS-5.3%25-E34F26?logo=html5&logoColor=white)
+![Python 5.2%](https://img.shields.io/badge/Python-5.2%25-3776AB?logo=python&logoColor=white)
+![Java 4.1%](https://img.shields.io/badge/Java-4.1%25-ED8B00?logo=openjdk&logoColor=white)
+
+**Frameworks & outils**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -64,6 +69,8 @@ répétitions en temps réel par IA sur 9 exercices.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 **Domaines** : web full-stack · iOS (SwiftUI) · vision par ordinateur · pentesting
+
+<sub>Pourcentages calculés sur l'ensemble de mes dépôts publics et privés, hors fichiers vendored.</sub>
 
 ## 📂 Projets sélectionnés
 
@@ -86,17 +93,6 @@ répétitions en temps réel par IA sur 9 exercices.
 
 - **Email** : [elijahlasserre63@gmail.com](mailto:elijahlasserre63@gmail.com)
 - **LinkedIn** : [Elijah Lasserre](https://www.linkedin.com/in/elijah-lasserre/)
-
-## 📊 Langages
-
-![TypeScript 57.3%](https://img.shields.io/badge/TypeScript-57.3%25-3178C6?logo=typescript&logoColor=white)
-![Swift 19.5%](https://img.shields.io/badge/Swift-19.5%25-F05138?logo=swift&logoColor=white)
-![JavaScript 6.3%](https://img.shields.io/badge/JavaScript-6.3%25-F7DF1E?logo=javascript&logoColor=black)
-![HTML/CSS 5.3%](https://img.shields.io/badge/HTML%2FCSS-5.3%25-E34F26?logo=html5&logoColor=white)
-![Python 5.2%](https://img.shields.io/badge/Python-5.2%25-3776AB?logo=python&logoColor=white)
-![Java 4.1%](https://img.shields.io/badge/Java-4.1%25-ED8B00?logo=openjdk&logoColor=white)
-
-<sub>Calculé sur l'ensemble de mes dépôts publics et privés, hors fichiers vendored.</sub>
 
 ---
 
